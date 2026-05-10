@@ -1,12 +1,12 @@
 {
-    "version": "0.1.10",
+    "version": "0.1.11",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tharvid/dvarapala/releases/download/v0.1.10/dvarapala_0.1.10_windows_x86_64.zip",
+            "url": "https://github.com/tharvid/dvarapala/releases/download/v0.1.11/dvarapala_0.1.11_windows_x86_64.zip",
             "bin": [
                 "dvarapala.exe"
             ],
-            "hash": "cfaa46a5ed24c61914968a88b794817e294e6d212aa9c816a1158b5f8ce1ce9a"
+            "hash": "d3185e3b82e3b5d696ff20c0ba1f0439777565bcbcbee0deb311f85e433786d1"
         }
     },
     "homepage": "https://github.com/TharVid/dvarapala",
